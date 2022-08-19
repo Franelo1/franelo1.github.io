@@ -36,6 +36,7 @@ body {
 
 
 .navbar-brand span {
+    padding-left: 3px;
     color: aqua;
 
 }
@@ -203,7 +204,7 @@ h1 {
     height: 150px;
     padding: 1.5em;
     border: 1px solid #fff;
-    color: #fff;
+    color: #fff
 }
 
 .form-group .input {
@@ -212,7 +213,7 @@ h1 {
     background: none;
     border: none;
     border-bottom: 1px solid #fff;
-    color: #fff;
+    color: #000;
 }
 
 .form-group .btn-submit {
